@@ -5,5 +5,5 @@
 #### mobile style
 	normolize.css + custom reset.css + base.css
 
-### pc style
+#### pc style
 	normolize.css + custom reset.css + base.css
